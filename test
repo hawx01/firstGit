@@ -1,0 +1,13 @@
+{
+	"total_inventory_count":2,
+	"success":1,
+	"rwgrsn":-2,
+	"assets":[{"assetid":"11579652919","classid":"1797256701","instanceid":"0"},
+	          {"assetid":"10663927056","classid":"1989272067","instanceid":"302028390"}
+	         ],
+	"descriptions":[{"classid":"1797256701","instanceid":"0","market_hash_name":"Graffiti | Jump Shot (Cash Green)",
+					"name":"Graffiti | Jump Shot (Cash Green)","tradable":1},
+	    		{"classid":"1797256701","instanceid":"0","market_hash_name":"Graffiti | Jump Shot (Cash Green)",
+					"name":"Graffiti | Jump Shot (Cash Green)","tradable":1}
+			]
+}
