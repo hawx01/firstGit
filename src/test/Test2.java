@@ -60,6 +60,7 @@ public class Test2 {
 //		} finally {
 //			
 //		}
+		testex();
 	 String key ="123_htm_22";
 	 int firt_index = key.indexOf("_");
 	 System.out.println(Integer.parseInt(key.substring(0,firt_index)));
